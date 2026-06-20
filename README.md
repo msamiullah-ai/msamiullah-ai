@@ -1,11 +1,10 @@
-```md
 <div align="center">
 
 # Sami Ullah
 
-### Artificial Intelligence • Machine Learning • Deep Learning • NLP • Computer Vision
+### ML Researcher • Multilingual NLP • Retrieval-Augmented Systems
 
-I am a BS Computer Science student focused on Artificial Intelligence, Machine Learning, and building practical AI systems with strong mathematical foundations.
+Computer Science student focused on language-centered AI systems, with interest in low-resource NLP, retrieval-augmented generation, semantic search, and mathematically grounded machine learning.
 
 <img src="https://komarev.com/ghpvc/?username=msamiullah-ai&label=Profile%20Views&color=6A5ACD&style=flat" alt="Profile Views" />
 

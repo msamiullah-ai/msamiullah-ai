@@ -26,19 +26,15 @@ Computer Science student focused on language-centered AI systems, with interest 
 
 ## Research Direction
 
-My main direction is Artificial Intelligence, with a focus on systems that learn from data, understand language and visual information, and support real-world decision-making.
+Focused on Multilingual NLP, Retrieval-Augmented Generation, and semantic retrieval systems for low-resource and real-world language settings.
 
 Current interests include:
 
-- Machine Learning
-- Deep Learning
-- Natural Language Processing
-- Computer Vision
-- Transformer Models
+- Low-Resource & Multilingual NLP
 - Retrieval-Augmented Generation
 - Semantic Search
-- Mathematical Foundations of AI
-- AI for Agriculture and Social Impact
+- Transformer-based Language Models
+- Mathematical Foundations of ML
 
 ---
 

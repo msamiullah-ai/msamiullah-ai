@@ -4,7 +4,7 @@
 
 ### ML Researcher • Multilingual NLP • Retrieval-Augmented Systems
 
-Computer Science student focused on language-centered AI systems, with interest in low-resource NLP, retrieval-augmented generation, semantic search, and mathematically grounded machine learning.
+Interested in low-resource NLP, retrieval-augmented generation, semantic search, and mathematically grounded machine learning.
 
 <img src="https://komarev.com/ghpvc/?username=msamiullah-ai&label=Profile%20Views&color=6A5ACD&style=flat" alt="Profile Views" />
 

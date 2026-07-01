@@ -28,24 +28,6 @@ Computer Science student focused on language-centered AI systems, with interest 
 
 Focused on Multilingual NLP, Retrieval-Augmented Generation, and semantic retrieval systems for low-resource and real-world language settings.
 
-Current interests include:
-
-- Low-Resource & Multilingual NLP
-- Retrieval-Augmented Generation
-- Semantic Search
-- Transformer-based Language Models
-- Mathematical Foundations of ML
-
----
-
-## Academic Profile
-
-- BS Computer Science — COMSATS University Islamabad
-- CGPA: **3.96 / 4.00**
-- Perfect **4.00 / 4.00** in first two semesters
-- CM Punjab Honhaar Scholarship Recipient
-- Focused on AI research, applied machine learning, and intelligent systems
-
 ---
 
 ## Selected Work
@@ -63,13 +45,6 @@ Key areas:
 - Gradient Descent
 - Model Evaluation
 - Python Implementations
-
-Focus:
-
-- mathematical intuition
-- derivations
-- clean implementation
-- theory-to-practice understanding
 
 ---
 
@@ -128,30 +103,3 @@ Core ideas:
 </p>
 
 ---
-
-## Learning Focus
-
-Currently strengthening my skills in:
-
-- Machine Learning from first principles
-- Deep Learning architectures
-- NLP and transformer-based models
-- Computer Vision fundamentals
-- Retrieval and semantic search systems
-- Mathematical foundations for AI
-- End-to-end AI project development
-
----
-
-## Research Philosophy
-
-> Good AI systems are built through mathematical understanding, clean implementation, and real-world problem awareness.
-
----
-
-<div align="center">
-
-### Building toward AI research, practical machine learning systems, and meaningful intelligent applications.
-
-</div>
-```

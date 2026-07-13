@@ -2,7 +2,7 @@
 
 # Sami Ullah
 
-### ML Researcher • Multilingual NLP • Retrieval-Augmented Systems
+### ML Researcher • NLP • LLMs
 
 <img src="https://komarev.com/ghpvc/?username=msamiullah-ai&label=Profile%20Views&color=6A5ACD&style=flat" alt="Profile Views" />
 

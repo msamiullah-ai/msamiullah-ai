@@ -2,7 +2,7 @@
 
 # Sami Ullah
 
-### ML Researcher • NLP • LLMs
+### AI Researcher
 
 <img src="https://komarev.com/ghpvc/?username=msamiullah-ai&label=Profile%20Views&color=6A5ACD&style=flat" alt="Profile Views" />
 

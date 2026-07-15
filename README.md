@@ -33,7 +33,7 @@
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=msamiullah-ai&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph-xi-seven.vercel.app/graph?username=msamiullah-ai&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
